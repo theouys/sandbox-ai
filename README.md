@@ -37,9 +37,7 @@ The project started as a console-based application and evolved into a GUI applic
 
 Example:
 
-```text
-docs/screenshot.png
-```
+![Screen shot](https://github.com/theouys/sandbox-ai/blob/main/Sandbox-AI.png)
 
 ---
 
