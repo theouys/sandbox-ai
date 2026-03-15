@@ -33,7 +33,7 @@ The project started as a console-based application and evolved into a GUI applic
 
 ## Screenshot
 
-[*Add your application screenshot here*](https://github.com/theouys/sandbox-ai/blob/main/Sandbox-AI.png)
+[*https://github.com/theouys/sandbox-ai/blob/main/Sandbox-AI.png*](https://github.com/theouys/sandbox-ai/blob/main/Sandbox-AI.png)
 
 Example:
 
